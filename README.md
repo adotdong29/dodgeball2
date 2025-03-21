@@ -1,6 +1,6 @@
 # Dodgeball - A Physics-Based Game 
 
-This project is a 2D physics-based game using C++ for the backend, WebAssembly as the bridge, and React.js for the frontend. The game features geometric shapes, drone-like enemies, and physics-based movement similar to n-gon.
+This project is a 2D physics-based game using C++ for the backend, WebAssembly as the bridge, and React.js for the frontend. The game features geometric shapes, drone-like enemies, and physics-based movement
 
 ## Features
 
@@ -223,5 +223,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgements
 
-- Inspired by the n-gon game mechanics
 - Built with React.js, WebAssembly, and C++
